@@ -83,6 +83,11 @@ Levantamento feito em 09/11/2026. Este arquivo vai virar a aba "Fontes e Benchma
 |---|---|---|---|---|---|---|---|
 | 5.1 | CPM no Meta | R$ 15–35 (Feed); R$ 8–20 (Stories/Reels); saúde de 2x a 3x a média | Trafius (agência) | 2026 | Não verificado nesta rodada | Baixa | Faixa de CPM nos três cenários (a validar) |
 | 5.2 | CPC no Meta | R$ 0,40 a R$ 6,00 | Trafius (agência) | 2026 | Não verificado | Baixa | Tráfego comprado = verba ÷ CPC |
+| 5.1b | CPC no Meta (Brasil) | R$ 0,30 a R$ 4,50 por clique | Trafius, "CPC médio no Meta Ads em 2026 por segmento" (agência). https://trafius.com.br/blog/cpc-medio-no-meta-ads-em-2026-por-segmento | 2026 | Secundário | Baixa | Faixa do CPC |
+| 5.1c | CPC no Meta, objetivo tráfego (Brasil) | R$ 0,50 a R$ 2,00 (faixa ampliada: R$ 0,20 a R$ 8,00) | ViniEnsina (blog). https://viniensina.com.br/quanto-custa-anunciar-no-facebook/ | 2026 | Secundário | Baixa | Faixa do CPC |
+| 5.1d | CPM no Meta (Brasil) | R$ 8 a R$ 45, conforme segmento e posicionamento | Trafius. https://trafius.com.br/blog/cpm-meta-ads-o-que-e-como-reduzir | 2026 | Secundário | Baixa | Faixa do CPM |
+| 5.1e | CPM de saúde e bem-estar (global) | O mais alto entre os setores (US$ 12 a 21, conforme a fonte) | Influee / ViniEnsina | 2026 | Divergente; não é Brasil | Baixa | Justifica usar a faixa **alta** de CPC para saúde |
+| 5.1f | **Cenários de CPC adotados (premissa a validar)** | Otimista R$ 1,50 · Base R$ 2,50 · Conservador R$ 4,00 | Faixa acima da média geral (5.1b e 5.1c) porque saúde é mais caro (5.1e) | — | **Premissa** | — | Calcular quantos cliques a verba compra. **Validar com a simulação no Gerenciador de Anúncios (feita pelo grupo).** |
 | 5.3 | Política do Meta: atributos pessoais | Proibido afirmar ou insinuar que a pessoa tem uma condição de saúde ("Você sofre de candidíase?") | Padrões de Publicidade do Meta (resumidos por fontes secundárias) | 2026 | Secundário. Conferir o texto oficial. | Média | Regras de criativo e copy |
 | 5.4 | Política do Meta: autopercepção negativa | Proibido gerar autopercepção negativa para vender produto de saúde ou bem-estar | Idem | 2026 | Secundário | Média | Idem |
 | 5.5 | Política do Meta: revisão de saúde e bem-estar | Fontes falam numa revisão em 22/07/2026 que passa a restringir por alegação, e numa categoria "Produtos adultos e saúde reprodutiva". **Não achei o detalhe para saúde reprodutiva.** | Fontes secundárias | 2026 | **A validar** | Baixa | Tratar como risco: pode limitar segmentação e criativo |
@@ -95,9 +100,11 @@ Levantamento feito em 09/11/2026. Este arquivo vai virar a aba "Fontes e Benchma
 | 6.2 | Engajamento de nano no TikTok | 11,9% | HypeAuditor 2025 | 2025 | Confirmado | Média a alta | Comparar plataformas |
 | 6.3 | Macro e mega no Instagram | Cerca de 0,33% a 0,35% | HypeAuditor 2026 | 2026 | Confirmado | Média a alta | Argumento a favor de nano e micro |
 | 6.4 | "Engajamento de nano 113% superior" | — | — | — | **Não encontrado.** Pode ser uma razão entre faixas, mas não achei. | — | **Não usar** |
-| 6.5 | Preço por post no Instagram | Nano US$ 10–100; micro US$ 100–500 | Influee (blog de plataforma) | 2025/2026 | Secundário | Baixa | Converter pela cotação do dia e validar com orçamento real |
+| 6.5 | Preço por post no Instagram | Nano US$ 10–100; micro US$ 100–500 | Influee (blog de plataforma) | 2025/2026 | Secundário | Baixa | Só referência internacional. As influenciadoras são brasileiras: usar as faixas em reais (6.7b e 6.7c) |
 | 6.6 | Preço por post no TikTok | Micro US$ 50–300; nano US$ 85–135 (plataforma Dok3, fonte secundária) | Influee; Dok3 | 2025 | Secundário | Baixa | Idem |
 | 6.7 | Micro no Brasil | "Algumas centenas de reais" por post; não há tabela única | Metricool / Shopify BR | 2025 | Secundário | Baixa | Faixa em reais (a validar com cotação real) |
+| 6.7b | Story patrocinado, a partir de cerca de 10 mil seguidores (Brasil) | R$ 300 a R$ 1.500 por story; abaixo disso, em geral permuta ou envio de produto | Agenciagram (blog), 2026. https://agenciagram.com.br/blog/como-ser-micro-influenciador-instagram-2026 | 2026 | Secundário | Baixa | **Faixa em reais** de micro (substitui a conversão do dólar) |
+| 6.7c | Reels de criadoras com 5 a 20 mil seguidores (Brasil) | Piso de cerca de R$ 300 por Reels | Inteligência Setorial (blog). https://inteligenciasetorial.com.br/quanto-cobrar-por-publipost-no-tiktok/ | 2026 | Secundário | Baixa | Faixa em reais de nano e micro |
 | 6.8 | Engajamento da Lela Brandão | 5,05% | Dado do próprio TCC (sem fonte indicada) | — | **Sem fonte** | — | Citar a ferramenta e a data da medição |
 
 ## 7. Jornada de compra e canais no Brasil (novos benchmarks)
@@ -125,7 +132,7 @@ Levantamento feito em 09/11/2026. Este arquivo vai virar a aba "Fontes e Benchma
 5. **Trafius (CPM e CPC):** abrir a fonte. O ideal é complementar com uma simulação real no Gerenciador de Anúncios, que é de graça e mostra o alcance estimado para mulheres de 18 a 45 anos em SP com a verba planejada.
 6. **Política do Meta para saúde reprodutiva:** ler o texto oficial nos Padrões de Publicidade (transparency.meta.com).
 7. **Preço de influenciadores no Brasil:** o melhor é pedir 3 a 5 orçamentos reais (mídia kit). Vale mais que qualquer tabela.
-8. **Cotação do dólar:** escolher uma data e uma fonte (por exemplo, o Banco Central) para converter os valores.
+8. ~~Cotação do dólar~~: não é necessária. As influenciadoras são brasileiras e os valores ficam em reais (6.7b e 6.7c).
 9. **Engajamento da Lela Brandão (5,05%):** indicar a ferramenta e a data da medição.
 
 ## Links consultados

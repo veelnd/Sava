@@ -147,7 +147,9 @@ Referência de padrão: TCC Bittsy Bites (ESPM, 2025), usado só para comparar e
 
 ## 6. Trechos desatualizados e alegações de saúde arriscadas
 
-**Desatualizado: fórmula e cepas**
+**Fórmula e cepas: CORRIGIDO pelo grupo em 09/11/2026.** As cepas são as quatro descritas no TCC e **não** as da IFF. Esse ponto deixa de ser "desatualizado". No texto, a dose fica marcada como "[DOSE: xxx UFC por sachê — a preencher pelo grupo]". O que segue abaixo continua valendo só para as alegações ("papel comprovado", "portfólio mais amplo").
+
+~~Desatualizado: fórmula e cepas~~ (análise original, mantida para registro)
 - O texto descreve **quatro cepas** (*L. crispatus, L. rhamnosus, L. reuteri, L. gasseri*) em 1.1, 1.2.2, 7.3.2 ("What"), 8.3.1 (processo de fabricação) e 9.2 (apresentação técnica do evento). Ainda diz que o portfólio é "mais amplo e tecnicamente robusto que o dos concorrentes" (1.1).
 - Você me disse que as cepas agora são as mesmas da IFF. **Não encontrei nenhuma menção à IFF no TCC.** Preciso que você me passe a lista exata de cepas, com a designação completa de cada uma (código da cepa), e a dose em UFC. **Não vou inventar.**
 - A frase "portfólio mais amplo que os concorrentes" precisa ser revista depois que a fórmula estiver confirmada.
