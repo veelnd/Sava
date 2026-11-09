@@ -110,3 +110,14 @@ Eu não consigo fazer essa simulação: o Gerenciador de Anúncios exige o login
 8. **Não cliquem em "Publicar".** Saiam sem salvar ou deixem como rascunho.
 
 O print vira uma figura do TCC ("Simulação de alcance no Gerenciador de Anúncios, elaborado pelos autores, 2026"). Pode virar também um mini "teste de fumaça", como o do Bittsy: é um dado de vocês, e não um benchmark.
+
+## E. Decisão posterior: o plano financeiro é a referência (09/11/2026)
+
+O grupo decidiu que **o plano financeiro (cap. 11) é sempre a referência**. Por isso, a partir da v3:
+- **Cenários:** passam a se chamar pessimista, realista e otimista, como no plano (11.3).
+- **Assinatura:** ciclos trimestrais renováveis, com cobrança mensal (8.3.2 e 11.3). Isso substitui a proposta B1, de renovação mês a mês depois do compromisso.
+- **Renovação ao fim de cada ciclo:** 40% / 50% / 70%. O realista é o do plano (11.5.2); o otimista é o do 8.3.2.
+- **Recompra da compra avulsa:** 15% / 20% / 30%. O realista é o do plano (11.5.2); o otimista é o do 6.2.1.
+- **Margens:** 31% na avulsa e 17% na assinatura (11.5). **CAC:** R$ 252,80. **Marketing:** R$ 126.400.
+- **Migração da avulsa para a assinatura:** zero no modelo. A ponte do dia 20 continua, mas como ação de CRM.
+- **Desconsiderado:** tudo o que vem depois das Referências.
