@@ -5,6 +5,8 @@ Referência de padrão: TCC Bittsy Bites (ESPM, 2025), usado só para comparar e
 
 ---
 
+> **Regra do grupo (09/11/2026):** tudo o que vem **depois de "REFERÊNCIAS"** (os blocos "FINANÇAS" e "ANTIGO – plano de mídia") **não é considerado**: nem números, nem texto. As linhas abaixo marcadas com ~~tachado~~ vieram desse bloco e **foram desconsideradas**. O trabalho usa só os capítulos 1 a 11.
+
 ## 1. O projeto em 10 linhas
 
 1. A Savá é um suplemento probiótico em pó, em sachê, sabor cranberry, para saúde íntima feminina, formulado e fabricado com a Farma Assist.
@@ -26,18 +28,18 @@ Referência de padrão: TCC Bittsy Bites (ESPM, 2025), usado só para comparar e
 |---|---|---|
 | **Modalidades** | Compra avulsa (1 caixa de 30 sachês) e assinatura. B2B (farmácias e clínicas) só no futuro. Kits: **não existem.** | 7, 7.1, 7.2, 8.3.2 |
 | **Preço avulso** | R$ 179,99 | 8.3.2, 10.2, 11.3 |
-| **Preço assinatura** | R$ 145,99 por mês, ciclo de 3 meses (R$ 437,97 por ciclo), cobrança mensal, desconto de 18,89% | 8.3.2, apêndice 4.2 |
+| **Preço assinatura** | R$ 145,99 por mês, ciclo de 3 meses (R$ 437,97 por ciclo), cobrança mensal, desconto de 18,89% | 8.3.2 |
 | **Ticket médio** | **Não aparece calculado.** Pelo SMART, seria cerca de R$ 150 por caixa (R$ 180.288 ÷ 1.200). Pelo SOM, cerca de R$ 167 (R$ 360.096 ÷ 2.158). | inferido |
 | **Custo unitário** | Fabricação R$ 59,22; operador logístico R$ 10; frete R$ 15; Mercado Pago R$ 3,98; Yampi R$ 2,50; impostos R$ 5,85 | 11.3.1 |
-| **Margem de contribuição** | Avulsa 32% / 31% / 41%; assinatura 19% / 17% / 27% (ver contradições) | 8.2, 8.3.2, 11.5, apêndice |
+| **Margem de contribuição** | Avulsa 32% / 31%; assinatura 19% / 17% (ver contradições) | 8.2, 8.3.2, 11.5 |
 | **Investimento inicial** | R$ 147.396,55 (sem detalhamento no texto) | 11.2 |
 | **Despesas mensais** | Marketing R$ 4.200; influenciadora R$ 5.000; profissionais R$ 500; site R$ 200; outras R$ 1.000. Total: R$ 10.900 por mês. | 11.3.2 |
 | **Gastos pontuais** | Site R$ 2.000; Anvisa R$ 20.000; evento R$ 10.000 | 11.3.2 |
-| **CAC** | R$ 252,80 (R$ 126.400 ÷ 500). O apêndice diz R$ 194 (R$ 116.400 ÷ 600). | 11.5.1, apêndice |
+| **CAC** | R$ 252,80 (R$ 126.400 ÷ 500) | 11.5.1 |
 | **Metas do ano 1** | 500 clientes únicas; 1.200 caixas; R$ 180.288. Mas o SOM diz 2.158 caixas e R$ 360.096. | 6.2.1, 2.2.3 |
 | **Mix de entrada** | 70% assinatura / 30% avulsa (350 / 150). Mas o SOM diz 200 / 300. | 6.2.1, 8.2, 2.2.3 |
 | **Retenção** | Renovação trimestral de 70% / 60% / 50%; recompra avulsa de 30% / 20% | 6.2.1, 8.2, 11.5.2 |
-| **Anos 2 e 3** | 1.800 e 2.340 caixas; meta de R$ 1 milhão no ano 3 e R$ 2 milhões no ano 5 | 11.3, apêndice |
+| **Anos 2 e 3** | 1.800 e 2.340 caixas; meta de R$ 1 milhão no ano 3 e R$ 2 milhões no ano 5 | 11.3 |
 | **Canais de venda** | Só o e-commerce próprio (plataforma Yampi + Mercado Pago) | 5.2, 11.3.1 |
 | **Canais de comunicação** | Instagram, TikTok, site/blog, evento, influenciadora, Meta Ads e Google Ads, e-mail/WhatsApp (só no pós-lançamento) | 9, 10 |
 | **Equipe** | Carolina: marketing, branding e parcerias. Victória: operações, qualidade e regulatório. Thomás: finanças, contratos e indicadores. Os três fazem atendimento, dividido por tema. 42 h por semana cada. | 8.1 |
@@ -51,7 +53,7 @@ Referência de padrão: TCC Bittsy Bites (ESPM, 2025), usado só para comparar e
 
 | # | Item | Já existe? | Onde | Está claro? | O que falta |
 |---|---|---|---|---|---|
-| 1 | Metas mensais por modalidade | **Não** | Só há metas anuais (6.2.1). A sazonalidade (março e novembro) aparece só em texto (apêndice 7). | — | Tabela mês a mês (12 meses): novas avulsas, novas assinantes, recompras, renovações e caixas, com curva de lançamento e sazonalidade |
+| 1 | Metas mensais por modalidade | **Não** | Só há metas anuais (6.2.1). A sazonalidade (março e novembro) aparece só em texto (10.3). | — | Tabela mês a mês (12 meses): novas avulsas, novas assinantes, recompras, renovações e caixas, com curva de lançamento e sazonalidade |
 | 2 | Taxa de conversão do site | **Não** (só citada como "indicador") | 10.2, 10.3 | — | Número com cenários e fonte, separado por mobile e desktop |
 | 3 | Tráfego mensal necessário | **Não** | — | — | Sessões por mês = pedidos ÷ conversão, por canal. Comparar com o que a verba compra (verba ÷ CPC) e com o SEO. |
 | 4 | Taxa de abandono | **Não** | Só "abandono da página" (9.5) e "conclusão do checkout" (9.4.1) | Vago | Taxa com cenários, causas (frete etc.) e régua de recuperação |
@@ -108,19 +110,19 @@ Referência de padrão: TCC Bittsy Bites (ESPM, 2025), usado só para comparar e
 | C3 | Mix de entrada | 300 avulsa / 200 assinatura (2.2.3) | 150 avulsa / 350 assinatura (6.2.1, 8.2, 8.3.2) | — |
 | C4 | Renovação da assinatura | 70% (6.2.1, 8.3.2) | 60% (8.2) | 50% (11.5.2) |
 | C5 | Recompra avulsa | 30% (6.2.1, 8.2, 8.3.2) | 20% (11.5.2) | — |
-| C6 | Margem avulsa | 32% (8.2, 8.3.2) | 31% (11.5) | 41% (apêndice) |
-| C7 | Margem assinatura | 19% (8.2, 8.3.2) | 17% (11.5) | 27% (apêndice) |
+| C6 | Margem avulsa | 32% (8.2, 8.3.2) | 31% (11.5) | ~~41% (apêndice)~~ desconsiderado |
+| C7 | Margem assinatura | 19% (8.2, 8.3.2) | 17% (11.5) | ~~27% (apêndice)~~ desconsiderado |
 | C8 | Contribuição por mês da assinatura | R$ 24,82 (8.3.2). Esse valor é **17%** de R$ 145,99, não 19% como diz o texto. | — | — |
 | C9 | Margem x custos listados | Somando os custos do 11.3.1 (R$ 96,55), a margem avulsa daria cerca de 46%, não 31%. **Não consegui reproduzir a conta**: provavelmente a planilha tem algum custo que o texto não cita. Preciso da planilha financeira. | — | — |
-| C10 | CAC | R$ 252,80 (500 clientes, R$ 126.400) | R$ 194 (600 clientes, R$ 116.400; apêndice) | — |
-| C11 | LTV/CAC | 0,98 (8.3.2) | 0,22 e 0,29 (11.5, só o primeiro ciclo) | 2,26 (apêndice). **Erro de conceito:** usa receita, não margem. |
-| C12 | Payback | 2,1 anos (6.2.1, 11.4.4) | 2,6 anos (apêndice) | — |
+| C10 | CAC | R$ 252,80 (500 clientes, R$ 126.400) | ~~R$ 194 (apêndice)~~ desconsiderado | — |
+| C11 | LTV/CAC | 0,98 (8.3.2) | 0,22 e 0,29 (11.5, só o primeiro ciclo) | ~~2,26 (apêndice)~~ desconsiderado. |
+| C12 | Payback | 2,1 anos (6.2.1, 11.4.4) | ~~2,6 anos (apêndice)~~ desconsiderado | — |
 | C13 | Leitura da TIR | TIR de 76% contra TMA de 25% (11.4.3) | "TIR ligeiramente superior à taxa de desconto" (11.4.5) | — |
 | C14 | Estoque x meta | Estoque de segurança de 170 caixas = "1 mês de vendas" e primeiro lote de 600 caixas para 3 a 4 meses (8.3.1): isso supõe cerca de 170 a 200 caixas por mês, o que **bate com 2.158 por ano, não com 1.200** (100 por mês) | — | — |
 | C15 | Mulheres de 18 a 45 anos no Brasil | 44.483.304 (2.2.1) | "cerca de 47 milhões" (2.4.1) | — |
-| C16 | Comissão | O apêndice inclui "comissão de R$ 9" no custo variável | O cap. 5 diz que profissionais **não** recebem comissão | — |
-| C17 | Verba de marketing do ano 1 | "Cerca de R$ 100 mil" (apêndice) | R$ 126.400 (11.5.1) | — |
-| C18 | Ponto de equilíbrio | 149 caixas por mês (apêndice), calculado só com a avulsa e margem de 41% | A meta é de 100 caixas por mês: **com esse ponto de equilíbrio, a meta nunca empataria no ano 1.** O texto não comenta isso. | — |
+| ~~C16~~ | ~~Comissão~~ (desconsiderado) | O apêndice inclui "comissão de R$ 9" no custo variável | O cap. 5 diz que profissionais **não** recebem comissão | — |
+| ~~C17~~ | ~~Verba de marketing do ano 1~~ (desconsiderado) | "Cerca de R$ 100 mil" (apêndice) | R$ 126.400 (11.5.1) | — |
+| ~~C18~~ | ~~Ponto de equilíbrio~~ (desconsiderado) | 149 caixas por mês (apêndice), calculado só com a avulsa e margem de 41% | A meta é de 100 caixas por mês: **com esse ponto de equilíbrio, a meta nunca empataria no ano 1.** O texto não comenta isso. | — |
 
 **Modelo e operação**
 
@@ -137,7 +139,7 @@ Referência de padrão: TCC Bittsy Bites (ESPM, 2025), usado só para comparar e
 | C27 | Horizonte | Comunicação de 6 meses x metas de 12 meses x pré-lançamento de 3 meses: não está claro se a verba de pré-lançamento entra nos 12 meses do plano financeiro. |
 | C28 | Sabor | Cranberry (1.2.2) x protótipo de laranja no focus group, com sugestão de cranberry ou hibisco (4.3.5). Coerente, mas é preciso confirmar o sabor final. |
 | C29 | Remissões erradas | 2.4.6 cita "pesquisa qualitativa do Capítulo 5" (é o 4); 2.4.5 cita 2.4.3 para canais; o fim do cap. 5 diz "o capítulo 6 detalha a metodologia"; 11.4.1 está numerado "10.4.1"; "Figura 44" aparece duas vezes; há "Figura x", "INSERIR FIGURA AQUI" e "Link dos fluxos de caixa" vazio. |
-| C30 | Rascunhos no corpo | Depois das Referências ainda estão o bloco **"FINANÇAS"** (notas de trabalho com números antigos) e **"ANTIGO – plano de mídia"**. Antes da entrega, precisam sair do corpo, virar apêndice ou ir para o arquivo de trechos removidos. **Nada será apagado sem sua autorização.** |
+| C30 | Rascunhos depois das Referências (desconsiderados) | Depois das Referências ainda estão o bloco **"FINANÇAS"** (notas de trabalho com números antigos) e **"ANTIGO – plano de mídia"**. Antes da entrega, precisam sair do corpo, virar apêndice ou ir para o arquivo de trechos removidos. **Nada será apagado sem sua autorização.** |
 
 **Personas e mensagens**
 - A persona protagonista é a Ana Luiza (recorrência), mas a maior parte da comunicação planejada (cap. 9) é de topo de funil genérico. O TikTok usa um exemplo que fala direto com a recorrência, e com risco regulatório (ver seção 6).
@@ -159,7 +161,7 @@ Referência de padrão: TCC Bittsy Bites (ESPM, 2025), usado só para comparar e
 | Trecho | Onde | Por que é arriscado |
 |---|---|---|
 | "selecionadas por seu **papel comprovado**" | 1.1, 1.2.2 | No Brasil, a alegação de um probiótico é avaliada **por cepa** pela Anvisa. "Comprovado" só se sustenta com a alegação aprovada para aquela cepa específica. |
-| "**Prevenindo** desequilíbrios" / "**prevenção de recorrências**" | 3.7.1 (proposta de valor), apêndice 1 | "Prevenir" uma condição se aproxima de alegação de doença, o que é vedado para suplementos. A própria seção 2.1.2.3 do TCC diz que o vocabulário deve ser "equilíbrio, bem-estar, suporte". A proposta de valor contradiz a regra que o próprio TCC estabelece. |
+| "**Prevenindo** desequilíbrios" / "**prevenção de recorrências**" | 3.7.1 (proposta de valor) | "Prevenir" uma condição se aproxima de alegação de doença, o que é vedado para suplementos. A própria seção 2.1.2.3 do TCC diz que o vocabulário deve ser "equilíbrio, bem-estar, suporte". A proposta de valor contradiz a regra que o próprio TCC estabelece. |
 | "embora **atue funcionalmente sobre esse sintoma**" | 3.7.2 | Associa o produto a um sintoma clínico. |
 | TikTok: "O que eu tenho feito na minha rotina para **evitar a candidíase de repetição**", com o produto aparecendo | 9.3.2 | Liga diretamente o produto a uma doença. Conflita com a Anvisa e com a política do Meta/TikTok de não insinuar condição de saúde. |
 | CTA "Devolva o controle da sua saúde íntima" | 9.3.1 | É mais um slogan do que uma alegação, mas, junto com os outros trechos, pode ser lido como promessa. É preciso revisar no conjunto. |
